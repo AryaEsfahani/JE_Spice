@@ -1,0 +1,12 @@
+Components:
+Resistor 487 250 1000
+Capacitor 619 361 1u
+Diode 471 485
+VoltageDC 331 363 5
+Wires:
+329 311 400 252
+571 252 620 311
+621 409 550 487
+393 486 329 418
+Analysis:
+None
