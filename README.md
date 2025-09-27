@@ -1,5 +1,5 @@
 # JE_Spice
-JE_Spice is a personal project that I designed and implemented in C++.
+JE_Spice is a personal project that I designed and implemented in C++ and the project is analysing a circuit like LTspice and Pspice and i called it JE_Spice and my program has features of LTispice and more.
 It is a circuit analysis tool inspired by the well-known SPICE program, created as a way to practice and learn about electronic circuit simulation and numerical methods.
 
 Project Name: JE_Spice
